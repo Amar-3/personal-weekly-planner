@@ -1,0 +1,22 @@
+export const DEFAULT_TASKS = [
+  { id: "morningWakeUp", name: "Good morning", time: "8:30 AM", duration: 0 },
+  { id: "morningWarmWater", name: "fresh start with warm water", time: "8:40 AM –8:50 AM", duration: 10 },
+  { id: "morningFresh&bath", name: "Ready time", time: "8:50 AM –9:30 AM", duration: 40 },
+  { id: "morning", name: "Slow toothbrush", time: "9:30–9:40 AM", duration: 10 },
+  { id: "rest", name: "Rest and charging up on roof", time: "9:40–10:10 AM", duration: 30 },
+  { id: "meditation", name: "Meditation", time: "10:10–10:40 AM", duration: 30 },
+  { id: "todo", name: "Structuring To-Do List", time: "10:40–11:00 AM", duration: 20 },
+  { id: "t1", name: "Trading Block 1", time: "11:00 AM–2:30 PM", duration: 210 },
+  { id: "lunch", name: "Lunch ,Short Walk", time: "2:30–3:00 PM", duration: 30 },
+  { id: "t2", name: "Trading Block 2", time: "3:00–5:00 PM", duration: 120 },
+  { id: "break", name: "Break + Stretch", time: "5:00–5:30 PM", duration: 30 },
+  { id: "t3", name: "Trading Block 3", time: "5:30–7:00 PM", duration: 90 },
+  { id: "dinner", name: "Dinner + Family Time", time: "7:00–8:00 PM", duration: 60 },
+  { id: "growth", name: "Growth / Workout", time: "8:00–10:30 PM", duration: 150 },
+  { id: "setup", name: "Refresh + Desk Setup", time: "10:30–11:00 PM", duration: 30 },
+  { id: "t4", name: "Prime Night Trading Block 4", time: "11:00 PM–3:30 AM", duration: 270 },
+  { id: "journal", name: "Trade Journal + Reflection", time: "3:30–3:45 AM", duration: 75 },
+  { id: "sleep", name: "Sleep", time: "3:45–8:30 AM", duration: 285 },
+ // { id: "sat", name: "Saturday: Reading / Backtest", time: "Variable", duration: 240 },
+ // { id: "sun", name: "Sunday: Weekly Review + Planning", time: "Variable", duration: 240 }
+];
