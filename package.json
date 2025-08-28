@@ -2,6 +2,7 @@
   "name": "react-weekly-trading-tracker",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://Amar-3.github.io/personal-weekly-planner",
   "description": "Weekly trading schedule & habit tracker with per-day checkboxes, time periods, and durations.",
   "scripts": {
     "start": "react-scripts start",
